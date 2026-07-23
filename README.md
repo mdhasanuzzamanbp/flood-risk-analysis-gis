@@ -20,7 +20,13 @@ The Ketenisse region of Schelde estuary, Belgium is prone to flood and riverbank
 - Excel: Data cleaning, Statistical analysis, Charts & Visualization, Summary statistics
 
 ## Results & Recommendations
-The terrain analysis showed us that riverbank erosion occurred in that region from 2021 to 2024. Then hydrological, topographical and vegetation data were assesed and The topographic maps produced on QGIS gives stakeholders to visualize the effectiveness of the flood control structure. By comparing the site conditions before and after the structure, it was identified that the extent of flood-prone areas can be reduced by approximately 50%. To support the structure marshland restoration is needed with suitable vegetation. Also, It suggested that Pioneer vegetation would be the most suitable for marshland restoration in near riverbank where flood probability is 75%-100%. By combining both engineered structure and natural vegetation will provide sustainability for long-term flood protection. 
+The terrain analysis showed us that riverbank erosion occurred in that region from 2021 to 2024. Then hydrological, topographical and vegetation data were assesed and The topographic maps produced on QGIS gives stakeholders to visualize the effectiveness of the flood control structure. By comparing the site conditions before and after the structure, it was identified that the extent of flood-prone areas can be reduced by approximately 50%. To support the structure marshland restoration is needed with suitable vegetation. 
+
+<img width="429" height="607" alt="1" src="https://github.com/user-attachments/assets/06e24c02-5e04-4e1f-997f-8f0fa40c218a" />  
+ 
+Also, It suggested that Pioneer vegetation would be the most suitable for marshland restoration in near riverbank where flood probability is 75%-100%. By combining both engineered structure and natural vegetation will provide sustainability for long-term flood protection. 
+
+<img width="605" height="783" alt="2" src="https://github.com/user-attachments/assets/6cb1d229-c255-4a1f-befd-fac73f35618c" />
 
 The analysis was conducted in 2024, so it will be effective to address future erosion and flood scenarios.
 
