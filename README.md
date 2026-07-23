@@ -8,6 +8,8 @@ Using QGIS and Microsoft Excel, I assessed topographical, hydrological and and v
 ## Problem Statement
 The Ketenisse region of Schelde estuary, Belgium is prone to flood and riverbank erosion from decades. To address the challenges, various projects have been implemented since 1970. On a pilot project entitled as “Bankbusters”, University of Antwerp and DEME, along with other partners, installed an hybrid nature-based engineered structure near the riverbank with a concept of DRECO (Dredged Ecological Compartments - conceptual building blocks). How can we determine whether the structure was effective for flood control? Also, Which marshland vegetation is suitable  to support the engineered structure to provide long-term flood protection?
 
+<img width="1672" height="941" alt="Workflow" src="https://github.com/user-attachments/assets/a3cb523c-17d7-464e-a30f-054ffc3db2f2" />
+
 ## Methodology
 1. Processed, cleaned and summarized water level observation data for different time period
 2. Extracted, processed, cleaned, analysed and visualized the DEM and spatial datasets with QGIS tools .
