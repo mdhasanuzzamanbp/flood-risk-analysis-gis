@@ -29,22 +29,14 @@ The Ketenisse region of Schelde estuary, Belgium is prone to flood and riverbank
 
 ## Results & Recommendations
 <div align="justify">
-The terrain analysis showed us that riverbank erosion occurred in that region from 2021 to 2024. Then hydrological, topographical and vegetation data were assesed and The topographic maps produced on QGIS gives stakeholders to visualize the effectiveness of the flood control structure. By comparing the site conditions before and after the structure, it was identified that the extent of flood-prone areas can be reduced by approximately 50%. To support the structure marshland restoration is needed with suitable vegetation. 
+The terrain analysis showed us that riverbank erosion occurred in that region from 2021 to 2024. Then hydrological, topographical and vegetation data were assesed and The topographic maps produced on QGIS gives stakeholders to visualize the effectiveness of the flood control structure. By comparing the site conditions before and after the structure, it was identified that the extent of flood-prone areas can be reduced by approximately 50%. To support the structure marshland restoration is needed with suitable vegetation. Also, It suggested that Pioneer vegetation would be the most suitable for marshland restoration in near riverbank where flood probability is 75%-100%. By combining both engineered structure and natural vegetation will provide sustainability for long-term flood protection. The analysis was conducted in 2024, so it will be effective to address future erosion and flood scenarios.
 </div>
+<br>
 <p align="center">
 <img width="1185" height="662" alt="sadafcaef" src="https://github.com/user-attachments/assets/b41b5a7e-b003-478c-aa82-03110656e212" />
 </p>
-<div align="justify">
-Also, It suggested that Pioneer vegetation would be the most suitable for marshland restoration in near riverbank where flood probability is 75%-100%. By combining both engineered structure and natural vegetation will provide sustainability for long-term flood protection. 
-</div>
-
-<div align="justify">
-The analysis was conducted in 2024, so it will be effective to address future erosion and flood scenarios.
-</div>
 
 ## Next Steps
-<div align="justify">
 1. Future terrain analysis to asses flood control effectiveness
 2. Monitoring Pioneer vegetation suitability after marshland restoration
 3. Analyzing future water level data to evaluate  changes in flood scenario
-</div>
