@@ -4,7 +4,7 @@ Three different timeframe has been used in the study. Two timeframe is used befo
 </div>
 <br>
 <p align="center">
-  <img width="515" height="581" alt="Study area map" src="https://github.com/user-attachments/assets/6c3edf15-cde5-4ac4-9e10-394203503c2c" />
+<img width="515" height="581" alt="Study area map" src="https://github.com/user-attachments/assets/6c3edf15-cde5-4ac4-9e10-394203503c2c" />
 </p>
 <p align="center">
 Fig 1: Study area map Ketenisse, Belgium
