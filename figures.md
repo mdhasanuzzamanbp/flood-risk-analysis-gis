@@ -41,7 +41,7 @@ Elevation maps showing three different views of a study area (a) 22-09-2021 (b) 
 Fig 4: Spatial Distribution of Terrain Slope, which ranges from 0 (No slope) to 90 (Perpendicular line, highest steepness) degree. 
 </p>
 <div align="justify">
-Slope maps showing the gradient of the terrain in a study area across three different dates: (a) 22-09-2021, (b) 29-01-2024, (c) 08-05-2024. In the image of 2021 average slope has been found below 9.56° (Fig a). However, through the time slope increased which shows a lot of red colors (53°-84°) to the eastern region due to erosion in 2024 (Fig b). After construction of the structure slope has been reduced below 9.56° again (Fig c).
+Slope maps showing the gradient of the terrain in a study area across three different dates: (a) 22-09-2021, (b) 29-01-2024, (c) 08-05-2024. In the image of 2021 average slope has been found below 9.56° (Fig a). However, over time, the slope increased which shows a lot of red colors (53°-84°) to the eastern region due to erosion in 2024 (Fig b). After construction of the structure slope has been reduced below 9.56° again (Fig c).
 </div>
 <br>
 <p align="center">
