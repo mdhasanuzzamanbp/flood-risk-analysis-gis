@@ -51,9 +51,8 @@ Slope maps showing the gradient of the terrain in a study area across three diff
 Fig 5: Aspect analysis showing the direction of terrain Slopes of the Ketenisse Study Area, Belgium. The direction of slope can be analysed with these images which has a range of 0° (due north) to 360° (back to north). The colors show different directions as no slope or flat (-1°), north (0°-22.5°), northeast (22.5°-67.5°), east (67.5°-112.5°), southeast (112.5°-157.5°), south (157.5°-202.5°), southwest (202.5°-247.5°), west (247.5°-292.5°), northwest (292.5°-337.5°) and west (337.5°-360°). 
 </p>
 <div align="justify">
-Aspect maps showing the directional orientation of slopes in a study area across three different dates (a) 22-09-2021, (b) 29-01-2024, (c) 08-05-2024.
+Aspect maps showing the directional orientation of slopes in a study area across three different dates (a) 22-09-2021, (b) 29-01-2024, (c) 08-05-2024. Before structure east and southwest-facing slope dominated the region. Also, west and northwest-facing slope found in larger scale in the western part where there are little patches overall in the eastern region of these slopes. However, after the structure even distribution of the slope directions have been found throughout the region. Moreover, west and southeast-facing slope are predominant. Southeast facing-slope shows a perpendicular line near the shore where the geotextiles has been introduced. 
 </div>
-<br>
 <br>
 <p align="center">
 <img width="516" height="609" alt="Hillshade" src="https://github.com/user-attachments/assets/5f1c0cd1-0d27-4d25-9f6d-aceb7b69a189" />
@@ -69,18 +68,23 @@ Hillshade maps of a study area, shown across three different time points: (a) 22
 <img width="429" height="607" alt="flood risk" src="https://github.com/user-attachments/assets/0deb2057-8e62-40f3-ac91-2ed25b36b9f8" />
 </p>
 <p align="center">
-Fig 7: 
+Fig 7: Inundation frequency analysis showing the probability of flood, which ranges from 0% (No flooding) to 100% (Fully flooded).
 </p>
 <div align="justify">
-Inundation frequency analysis showing the probability of flood in the study area in three time zone (a) 22-09-2021, (b) 29-01-2024, (c) 08-05-2024.
+Inundation frequency analysis showing the probability of flood in the study area in three time zone (a) 22-09-2021, (b) 29-01-2024, (c) 08-05-2024. In 2021 eastern part flood frequency is higher (75%-100%) as it is situated near the shore. where western part has low frequency (0%-10%) as it is close to the dike. In the central region the frequency varies from 20%-50%. In 2024, due to erosion the frequency changed in the central region significantly as it increased to 30%-70%. After the construction, the frequency reduced to 0%-40% in the central region. Moreover, the frequency reduced below 35% in the central and west region.
 </div>
 <br>
 <p align="center">
+<img width="691" height="416" alt="QFWE" src="https://github.com/user-attachments/assets/9989ec29-ac48-4850-b142-f7f7a75bba4c" />
 <img width="605" height="783" alt="VEHETATION SUITABILITY INDEX" src="https://github.com/user-attachments/assets/47f34e98-3401-489d-a1c2-dd3f9c6c0b5a" />
 </p>
 <p align="center">
-Fig 8: 
+Fig 8: (Top) Relationship between inundation frequency and vegetation type probability, Crier et al., 1999 (Bottom) Vegetation suitability index maps for the marsh area based on inundation frequency, illustrating potential vegetation types: (a) Pioneer vegetation, (b) Pure sea clubrush (Bolboschoenus maritimus), (c) Sea clubrush with sea aster and spear-leaved orache (Bolboschoenus maritimus, Aster tripolium/Tripolium  pannonicum, and Atriplex prostrata), (d) Sea couch (Elymus athericus) and (e) Reed (Phragmites australis)
 </p>
 <div align="justify">
-Vegetation suitability index maps for the marsh area based on inundation frequency, illustrating potential vegetation types: (a) Pioneer vegetation, (b) Pure sea clubrush (Bolboschoenus maritimus), (c) Sea clubrush with sea aster and spear-leaved orache (Bolboschoenus maritimus, Aster tripolium/Tripolium  pannonicum, and Atriplex prostrata), (d) Sea couch (Elymus athericus) and (e) Reed (Phragmites australis)
+As for Pioneer vegetation (Max 73%) and Pure sea clubrush (Max 77%)  the probability is higher in high flooding zone. On the other hand, Sea couch (Max 61%) and Reed (Max 80%) have higher probability in the low flood frequency zone. Sea clubrush with sea aster and spear-leaved orache (Max 66%)  is suitable for 20%-35% flooding zone. According to the modeland our analysis, Pioneer vegetation exactly matches with our construction area and can provide long term sustainable flood protection. 
+</div>
+<div align="justify">
+References
+Criel, B., Muylaert, W., Hoffmann, M., De Loose, L., Metre, P. 1999. Vegetatiemode Uering van de buitendijkse gebieden langs de Zeeschelde. Onderzoek Milieu-Effecten Sigmaplan (OMES) AMIS DS7.2, deelstudie 8
 </div>
